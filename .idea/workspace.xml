@@ -45,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604584538428</updated>
       <workItem from="1604584539475" duration="7178000" />
-      <workItem from="1604912121047" duration="2802000" />
+      <workItem from="1604912121047" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="Modif titre de la page">
       <created>1604917436189</created>
@@ -54,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604917436189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modif titre de la page">
+      <created>1604917748660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604917748660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,10 +72,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Modif titre de la page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1604917435455">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1604917748066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604917435455" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604917748066" />
     <state x="682" y="253" width="679" height="556" key="FileChooserDialogImpl" timestamp="1604913794108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
