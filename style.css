@@ -1,0 +1,40 @@
+h3 {
+    font-style : italic;
+    color:blue;
+}
+
+#p1 {
+    font-style : italic;
+    color:blue;
+}
+
+.p2 {
+    font-style : italic;
+    color:red;
+}
+
+header {
+    background-color: yellow;
+    height: 20vh;
+    margin:0;
+}
+
+aside {
+    background-color:palevioletred;
+    width: 20vw;
+    height: 50vh;
+    margin-left:80vw;
+}
+
+section {
+    background-color: cornflowerblue;
+    width: 80vw;
+    height: 50vh;
+    margin-top:-50vh;
+}
+
+footer {
+    background-color: darksalmon;
+    height: 30vh;
+    margin:0;
+}
