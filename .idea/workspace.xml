@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb426725-571e-43e2-94df-431d74156d1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,9 @@
       <updated>1604584538428</updated>
       <workItem from="1604584539475" duration="7178000" />
       <workItem from="1604912121047" duration="4656000" />
+      <workItem from="1605255488718" duration="7000" />
+      <workItem from="1605255517161" duration="22000" />
+      <workItem from="1605255562044" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="Modif titre de la page">
       <created>1604917436189</created>
